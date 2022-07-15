@@ -1,0 +1,31 @@
+body {
+    background: #dde6e7f6 url("/img/cherrie.gif"); /*Replace with your own background*/
+      background-size: cover;
+      background-attachment: fixed;
+    background-position:center;
+    font-family: 'Roboto Mono', monospace;
+      font-size: 16px;
+    }
+    
+    #main {
+        background-color:#dde6e7f6;
+        border: 1px solid;
+        border-color:rgba(169, 169, 169, 0);
+        color:#333333;
+        padding: 20px 20px 20px 20px;
+        width: 80%;
+        height:auto;
+        margin-left: 20%;
+        margin-right: 20%;
+        }
+
+  center {
+    text-align: center;
+    }
+
+
+  a {
+    color: #0e4163;
+    }
+  
+ 
