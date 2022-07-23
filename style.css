@@ -30,4 +30,18 @@ body {
     color: #0e4163;
     }
   
+    .menu {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      flex-grow: 1;
+    }
+
+    .menuitem {
+      background-color: rgba(0, 128, 128, 0);
+      border: 1px solid rgba(82, 161, 185, 0);
+      width: auto;
+      padding-block: 5px;
+      font-weight: bold;
+    }
  
