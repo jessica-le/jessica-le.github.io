@@ -33,7 +33,7 @@ social:
   linkedin: jessicajxle
 
 # Build settings
-remote_theme: jekyll-theme-persephone
+theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
   - jekyll-books
