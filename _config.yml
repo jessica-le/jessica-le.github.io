@@ -26,6 +26,7 @@ baseurl: "jessica-le.github.io" # the subpath of your site, e.g. /blog. if i bou
 url: "https://jessica-le.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lejiexi
 github_username:  jessica-le
+root: /
 # # Your social accounts.
 social:
   github: jessica-le
