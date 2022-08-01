@@ -1637,7 +1637,7 @@ a.nav-link.active:after {
         max-width: 50%;
         width: 50%;
         display: inline-block;
-        float: left
+        /*float: left*/
     }
 
     .navigation.navigation-unique {
@@ -2063,7 +2063,7 @@ a.nav-link.active:after {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    float: left;
+    /*float: left;*/
     margin-right: 10px;
     position: relative
 }
@@ -2550,33 +2550,30 @@ textarea.form-control {
     border-style: solid
 }
 
-/*art gallery settings*/
-.photo-gallery {
+  /* First the Grid */
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 1.5rem;
+    justify-items: center;
+    margin: 0;
+    padding: 0 4px;
     display: flex;
     flex: 33%;
-    max-width: 33%;
+    max-width: 100%;
     flex-wrap: wrap;
-    padding: 0 4px;
+
   }
     
-  .photo-gallery img {
-    margin-top: 8px;
-    vertical-align: middle;
+  /* The Images */
+  .gallery-img {
     max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: opacity 0.25s ease-in-out;
+    border-radius: 5px;
   }
   
-  /* Responsive layout - makes a two column-layout instead of four columns */
-  @media screen and (max-width: 800px) {
-    .photo-gallery {
-      flex: 50%;
-      max-width: 50%;
-    }
-  }
-  
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
-    .column {
-      flex: 100%;
-      max-width: 100%;
-    }
+  .gallery-img:hover {
+    opacity: .7;
   }

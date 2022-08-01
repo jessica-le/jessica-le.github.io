@@ -21,7 +21,7 @@
 title: Jessica Le
 email: jessicajiexile@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  hello! I'm Jessica, a multidisciplinary writer, designer, and artist.
+  I'm very excited about game writing and illustration opportunities. Feel free to get in touch!
 baseurl: "/" # the subpath of your site, e.g. /blog. if i bought a domain name i would put it here.
 url: "https://jessica-le.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lejiexi
@@ -63,7 +63,7 @@ theme_setting:
     - "about.markdown"
     - "writing.md"
     - title: "art"
-      url: "gallerytest"
+      url: "illustration"
 
     - title: "ko-fi"
       url: "https://ko-fi.com/noodledesk/"
