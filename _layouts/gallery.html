@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- include header.html -%}
+<main class="post__archive">
+    {%- include header_nav.html -%}
+
+      <article class="post__entry">
+
+        <div class="photo-gallery">
+            {% for image in page.images %}
+            <a href="{{ image.link }}"> 
+                <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+            </a> 
+        </div>
+    
+      </article>
+    {%- endfor -%}
+    {%- include pagination.html -%}
+  </main>
+  {%- include footer.html -%}

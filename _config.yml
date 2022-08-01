@@ -42,7 +42,7 @@ plugins:
 # Theme Settings
 
 # Your site's logo. Will be shown on the left top of your page.
-logo: /img/icon_bunny.png
+logo: 
 # # If the images of our blog are stored in an external cloud. You can use the jekyll-img-prefix plugin and set your images' base URL here.
 # img_prefix: https://your-img-cdn.com
 # # The RSS link of your blog.
@@ -62,6 +62,9 @@ theme_setting:
   nav_pages:
     - "about.markdown"
     - "writing.md"
+    - title: "art"
+      url: "gallerytest"
+
     - title: "ko-fi"
       url: "https://ko-fi.com/noodledesk/"
 
