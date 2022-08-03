@@ -8,11 +8,14 @@ layout: default
       <div class="gallery-grid">
           {% for image in page.images %}
           <a href="{{ image.link }}"> 
-            <img class="gallery-img" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+            <img class="gallery-img" src="{{ image.image_path }}" alt="{{ image.title}}"/>              
           </a>
       </div>
 
     {%- endfor -%}
     {%- include pagination.html -%}
+    {{content}}
+    {%- include contact.html -%}
   </main>
+ 
   {%- include footer.html -%}

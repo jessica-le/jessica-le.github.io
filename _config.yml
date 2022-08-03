@@ -31,7 +31,7 @@ root: /
 social:
   github: jessica-le
   twitter: lejiexi
-  linkedin: jessicajxle
+  linkedin: 
 
 # Build settings
 theme: jekyll-theme-persephone
@@ -62,13 +62,9 @@ theme_setting:
   nav_pages:
     - "about.markdown"
     - "writing.md"
-    - title: "art"
+    - title: "illustration"
       url: "illustration"
-
-    - title: "ko-fi"
-      url: "https://ko-fi.com/noodledesk/"
-
-
+    - "gamedev.md"
 
 defaults: 
   -
