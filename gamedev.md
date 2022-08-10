@@ -24,3 +24,6 @@ _Text based survival and psychological horror game set in space, where the playe
 **Locations toured:** Pratt Institute of Art, New Hampshire Institute of Art, Crocker Art Museum, Center of Creative Arts, South Bend Museum of Art. 
 
 Some other works include: [the now we've named](https://windbreak.itch.io/the-now-weve-named), which tests the player's coffee making ability in exchange for hearing their customer's stories, and [Morgan and his little sister Rabbit](https://windbreak.itch.io/morgan-and-rabbit), an interactive poem that was published in [INTERMISSIONS](https://www.camilleintson.com/intermissions?fbclid=IwAR1rfNidXvfxzgsfS775X-t_iCNaKFtqWmRLzttz8wSG79niLcdnDO56e38).
+
+## interviews
+[with Monique Legaspi, on being a links artist](https://monique-link.neocities.org/interview)
