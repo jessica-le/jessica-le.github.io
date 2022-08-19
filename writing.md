@@ -3,6 +3,8 @@ layout: "page"
 title: "writing"
 permalink: /writing/
 ---
+This section is focused on poems for now.
+
 ## chapbooks
 
 <figure>

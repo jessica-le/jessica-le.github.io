@@ -53,7 +53,7 @@ theme_setting:
    # The slides count in the slides layout. Default is 4.
   slides_count: 4
     # The ← back URL on the top of your post page. Default is your site's home page.
-  blog_page: "index.md"
+  blog_page: "updates.md"
     # The URL on your name on the bottom of your post and page. Default is your site's home page.
   about_page: "about.md"
    #  The URL of the menu icon(which has three black lines). Will be shown on the slides/book/chapter layouts It won't be shown if blank.
@@ -65,12 +65,14 @@ theme_setting:
     - title: "illustration"
       url: "illustration"
     - "gamedev.md"
+    - "updates.md"
+
 
 defaults: 
   -
     scope:
       path: ""
-      type: "post"
+      type: "posts"
     values:
       layout: "post"
 

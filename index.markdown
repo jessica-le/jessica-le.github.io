@@ -1,6 +1,7 @@
 ---
 layout: gallery
 images:
+  - image_path: assets/img/icon_bunny.png
   - image_path: assets/img/kernelcover.jpg
     title: illustration
     link: /illustration
