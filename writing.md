@@ -7,10 +7,11 @@ This section is focused on poems for now.
 
 ## chapbooks
 
-<figure>
-<img src="/assets/img/TNST_Cover.jpg" width="25%" height="auto">
-    <figcaption> <a href="http://www.anstrutherpress.com/#/the-nearest-sweetest-thing-by-jessica-le/">The Nearest Sweetest Thing,</a> Anstruther Press 2021</figcaption>
-</figure>
+<a href="http://www.anstrutherpress.com/#/the-nearest-sweetest-thing-by-jessica-le/">
+    <img src="/assets/img/TNST_Cover.jpg" width="50%">
+</a>
+  
+[The Nearest Sweetest Thing](http://www.anstrutherpress.com/#/the-nearest-sweetest-thing-by-jessica-le/), Anstruther Press 2021
 
 ## selected publications
 
@@ -23,10 +24,11 @@ I promise the thunderbolt never misses, THIS Magazine 2022
 
 ## anthologies
 
-<figure>
-<img src="https://www.watchyourhead.ca/uploads/8/2/2/7/8227701/published/cover-photo.png?1626980559" width="25%" height="auto">
-    <figcaption> <a href="https://www.watchyourhead.ca/watch-your-head/category/jessica-le">Watch Your Head: Writers and Artists Respond to the Climate Crisis,</a> Coach House Books 2020</figcaption>
-</figure>
+<a href="http://www.anstrutherpress.com/#/the-nearest-sweetest-thing-by-jessica-le/">
+    <img src="https://www.watchyourhead.ca/uploads/8/2/2/7/8227701/published/cover-photo.png?1626980559" width="50%">
+</a>
+  
+[Watch Your Head: Writers and Artists Respond to the Climate Crisis](https://www.watchyourhead.ca/watch-your-head/category/jessica-le), Coach House Books 2020
 
 ## awards
 
