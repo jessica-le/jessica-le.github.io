@@ -3,7 +3,7 @@ layout: "page"
 title: "gamedev"
 permalink: /gamedev/
 ---
-All of my games are available on [itch.io](https://windbreak.itch.io). For writing samples, please reach out via [email.](mailto:jessicajiexile@gmail.com)
+All of my games are available on [itch.io](https://windbreak.itch.io). For writing samples, please reach out via [email.](mailto:noodledesk@proton.me)
 
 ## selected works
 
