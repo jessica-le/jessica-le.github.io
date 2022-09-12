@@ -3,7 +3,6 @@ layout: "page"
 title: "writing"
 permalink: /writing/
 ---
-This section is focused on poems for now.
 
 ## chapbooks
 
@@ -15,7 +14,8 @@ This section is focused on poems for now.
 
 ## selected publications
 
-Breakfast at T&T, PRISM International 2022  
+The fact that green beans grow like two meters tall, forthcoming, INKSOUNDS  
+[Breakfast at T&T](https://prism-epayments.sites.olt.ubc.ca/ubc-product/60-4-spirit-summer-2022/), PRISM International 2022  
 I promise the thunderbolt never misses, THIS Magazine 2022  
 [Get in the Robot](https://salthilljournal.net/sh47), Salt Hill Journal 2022  
 [Metamorphosis](https://homologylit.com/2021/11/26/jessica-le/), Homology Lit 2021  

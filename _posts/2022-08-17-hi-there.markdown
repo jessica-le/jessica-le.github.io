@@ -7,4 +7,4 @@ permalink: "/hello/"
 ---
 Hello, it's lovely to e-meet you! You can find some quick updates here, sorted by category, once we get to that. For now, you can check out my work in the navigation menu up top.
 
-This site was created using [Jekyll](https://jekyllrb.com) and uses Sharon Zhang's [Persephone](https://github.com/erlzhang/jekyll-theme-persephone) theme, which is lovely. I made a good deal of tweaks to the HTMl and CSS. 
+This site was created using [Jekyll](https://jekyllrb.com) and uses Sharon Zhang's [Persephone](https://github.com/erlzhang/jekyll-theme-persephone) theme, which is lovely. I made a good deal of tweaks to the HTML and CSS. 
